@@ -1,6 +1,6 @@
 #include<iostream>
 /*
- *author:tzy..
+ *author:tzy
  * */
 int main()
 {
